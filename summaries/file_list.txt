@@ -1,0 +1,14 @@
+total 552
+drwxr-xr-x 1 anthony anthony    442 Oct  6  2019 ./
+drwxr-xr-x 1 anthony anthony    306 Oct  6 09:49 ../
+-rw-r--r-- 1 anthony anthony  48446 Oct  5 19:40 AROUSAL_bY_AGE_and_GENDER.svg
+-rw-r--r-- 1 anthony anthony  27099 Oct  5 19:40 arousal_by_AGE.svg
+-rw-r--r-- 1 anthony anthony  47924 Oct  5 19:40 ELEMENTS_bY_AGE_and_GENDER.svg
+-rw-r--r-- 1 anthony anthony  41246 Oct  5 19:40 elements_by_AGE.svg
+-rw-r--r-- 1 anthony anthony      0 Oct  6  2019 file_list.txt
+-rw-r--r-- 1 anthony anthony  31412 Oct  5 19:40 histogram_AGE.svg
+-rw-r--r-- 1 anthony anthony  48322 Oct  5 19:40 PLEASURE_bY_AGE_and_GENDER.svg
+-rw-r--r-- 1 anthony anthony  32349 Oct  5 19:40 pleasure_by_AGE.svg
+-rw-r--r-- 1 anthony anthony  52897 Oct  5 19:40 TYPE_correlation_matrix.svg
+-rw-r--r-- 1 anthony anthony 168723 Oct  5 20:21 TYPE_mean_correlations.svg
+-rw-r--r-- 1 anthony anthony  49736 Oct  5 19:40 TYPE_mean_ratings.svg

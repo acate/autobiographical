@@ -1,0 +1,40 @@
+====== OVERVIEW ======
+
+This was an in-class assignment.
+
+====== RESULTS ======
+
+===== Frequency of memories by age =====
+
+{{teaching:autobiographical:histogram_AGE.svg}}
+
+===== Valency and intensity of emotion elicited by memories =====
+
+{{teaching:autobiographical:pleasure_by_AGE.svg}}
+
+{{teaching:autobiographical:arousal_by_AGE.svg}}
+
+==== Gender effects ====
+
+{{teaching:autobiographical:PLEASURE_bY_AGE_and_GENDER.svg}}
+
+{{teaching:autobiographical:AROUSAL_bY_AGE_and_GENDER.svg}}
+
+===== Number and type of elements in the memories =====
+
+{{teaching:autobiographical:elements_by_AGE.svg}}
+
+{{teaching:autobiographical:TYPE_mean_ratings.svg}}
+
+==== Gender effects ====
+
+{{teaching:autobiographical:ELEMENTS_bY_AGE_and_GENDER.svg}}
+
+===== Correlations among the types of elements retrieved =====
+
+{{teaching:autobiographical:TYPE_correlation_matrix.svg}}
+
+Lower mean correlations indicate that a type of element was retrieved independently of other element types.
+
+{{teaching:autobiographical:TYPE_mean_correlations.svg}}
+

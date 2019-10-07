@@ -1,0 +1,40 @@
+====== OVERVIEW ======
+
+This was an in-class assignment.
+
+====== RESULTS ======
+
+===== Frequency of memories by age =====
+
+{{:../plots/histogram_AGE.svg}}
+
+===== Valency and intensity of emotion elicited by memories =====
+
+{{:../plots/pleasure_by_AGE.svg}}
+
+{{:../plots/arousal_by_AGE.svg}}
+
+==== Gender effects ====
+
+{{:../plots/PLEASURE_bY_AGE_and_GENDER.svg}}
+
+{{:../plots/AROUSAL_bY_AGE_and_GENDER.svg}}
+
+===== Number and type of elements in the memories =====
+
+{{:../plots/elements_by_AGE.svg}}
+
+{{:../plots/TYPE_mean_ratings.svg}}
+
+==== Gender effects ====
+
+{{:../plots/ELEMENTS_bY_AGE_and_GENDER.svg}}
+
+===== Correlations among the types of elements retrieved =====
+
+{{:../plots/TYPE_correlation_matrix.svg}}
+
+Lower mean correlations indicate that a type of element was retrieved independently of other element types.
+
+{{:../plots/TYPE_mean_correlations.svg}}
+
